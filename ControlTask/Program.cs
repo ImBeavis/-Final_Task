@@ -23,5 +23,6 @@ void PrintArray(string[] arr)
     Console.WriteLine();
 }
 
+PrintArray(array);
 GetArray(array, resultArray);
 PrintArray(resultArray);
